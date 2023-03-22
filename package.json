@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/PavloF23/goit-node-hw1#readme",
   "dependencies": {
+    "commander": "^10.0.0",
     "nodemon": "^2.0.21"
   }
 }
